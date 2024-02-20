@@ -1,0 +1,300 @@
+
+########## Evaluation ##########
+Timestep: 2 Average Reward: -2.1705
+
+########## Evaluation ##########
+Timestep: 415 Average Reward: 3.711
+
+########## Evaluation ##########
+Timestep: 848 Average Reward: 6.4715
+
+########## Evaluation ##########
+Timestep: 1282 Average Reward: 6.3515
+
+########## Evaluation ##########
+Timestep: 1719 Average Reward: 5.777
+
+########## Evaluation ##########
+Timestep: 2159 Average Reward: 6.6165
+
+########## Evaluation ##########
+Timestep: 2659 Average Reward: 25.1485
+
+########## Evaluation ##########
+Timestep: 3070 Average Reward: 26.104
+
+########## Evaluation ##########
+Timestep: 3500 Average Reward: 25.4495
+
+########## Evaluation ##########
+Timestep: 3978 Average Reward: 24.278
+
+########## Evaluation ##########
+Timestep: 4474 Average Reward: 31.4365
+
+########## Evaluation ##########
+Timestep: 4936 Average Reward: 31.0385
+
+########## Evaluation ##########
+Timestep: 5412 Average Reward: 31.036
+
+########## Evaluation ##########
+Timestep: 5866 Average Reward: 31.901
+
+########## Evaluation ##########
+Timestep: 6301 Average Reward: 31.121
+
+########## Evaluation ##########
+Timestep: 6751 Average Reward: 29.6675
+
+########## Evaluation ##########
+Timestep: 7215 Average Reward: 30.126
+
+########## Evaluation ##########
+Timestep: 7661 Average Reward: 32.231
+
+########## Evaluation ##########
+Timestep: 8113 Average Reward: 31.022
+
+########## Evaluation ##########
+Timestep: 8569 Average Reward: 32.4515
+
+########## Evaluation ##########
+Timestep: 9027 Average Reward: 31.445
+
+########## Evaluation ##########
+Timestep: 9478 Average Reward: 33.2745
+
+########## Evaluation ##########
+Timestep: 9914 Average Reward: 32.652
+
+########## Evaluation ##########
+Timestep: 10364 Average Reward: 34.1795
+
+########## Evaluation ##########
+Timestep: 10805 Average Reward: 33.8505
+
+########## Evaluation ##########
+Timestep: 11259 Average Reward: 34.7135
+
+########## Evaluation ##########
+Timestep: 11725 Average Reward: 35.391
+
+########## Evaluation ##########
+Timestep: 12159 Average Reward: 33.644
+
+########## Evaluation ##########
+Timestep: 12592 Average Reward: 34.7405
+
+########## Evaluation ##########
+Timestep: 13057 Average Reward: 34.816
+
+########## Evaluation ##########
+Timestep: 13502 Average Reward: 34.497
+
+########## Evaluation ##########
+Timestep: 13950 Average Reward: 35.764
+
+########## Evaluation ##########
+Timestep: 14391 Average Reward: 37.2525
+
+########## Evaluation ##########
+Timestep: 14837 Average Reward: 36.1135
+
+########## Evaluation ##########
+Timestep: 15290 Average Reward: 36.427
+
+########## Evaluation ##########
+Timestep: 15711 Average Reward: 36.7885
+
+########## Evaluation ##########
+Timestep: 16159 Average Reward: 36.439
+
+########## Evaluation ##########
+Timestep: 16587 Average Reward: 35.029
+
+########## Evaluation ##########
+Timestep: 17037 Average Reward: 34.8165
+
+########## Evaluation ##########
+Timestep: 17472 Average Reward: 37.5085
+
+########## Evaluation ##########
+Timestep: 17885 Average Reward: 35.6905
+
+########## Evaluation ##########
+Timestep: 18357 Average Reward: 36.8495
+
+########## Evaluation ##########
+Timestep: 18796 Average Reward: 36.6805
+
+########## Evaluation ##########
+Timestep: 19205 Average Reward: 34.281
+
+########## Evaluation ##########
+Timestep: 19639 Average Reward: 34.424
+
+########## Evaluation ##########
+Timestep: 20102 Average Reward: 34.8835
+
+########## Evaluation ##########
+Timestep: 20549 Average Reward: 35.8035
+
+########## Evaluation ##########
+Timestep: 20981 Average Reward: 36.2375
+
+########## Evaluation ##########
+Timestep: 21442 Average Reward: 34.9675
+
+########## Evaluation ##########
+Timestep: 21905 Average Reward: 34.8995
+
+########## Evaluation ##########
+Timestep: 22352 Average Reward: 34.9765
+
+########## Evaluation ##########
+Timestep: 22812 Average Reward: 36.1055
+
+########## Evaluation ##########
+Timestep: 23245 Average Reward: 36.1515
+
+########## Evaluation ##########
+Timestep: 23719 Average Reward: 35.8805
+
+########## Evaluation ##########
+Timestep: 24156 Average Reward: 36.739
+
+########## Evaluation ##########
+Timestep: 24610 Average Reward: 35.7865
+
+########## Evaluation ##########
+Timestep: 25108 Average Reward: 37.604
+
+########## Evaluation ##########
+Timestep: 25561 Average Reward: 36.1915
+
+########## Evaluation ##########
+Timestep: 26005 Average Reward: 36.8395
+
+########## Evaluation ##########
+Timestep: 26457 Average Reward: 35.088
+
+########## Evaluation ##########
+Timestep: 26909 Average Reward: 35.093
+
+########## Evaluation ##########
+Timestep: 27397 Average Reward: 37.257
+
+########## Evaluation ##########
+Timestep: 27837 Average Reward: 36.4305
+
+########## Evaluation ##########
+Timestep: 28330 Average Reward: 36.977
+
+########## Evaluation ##########
+Timestep: 28755 Average Reward: 35.0925
+
+########## Evaluation ##########
+Timestep: 29222 Average Reward: 34.809
+
+########## Evaluation ##########
+Timestep: 29671 Average Reward: 34.7945
+
+########## Evaluation ##########
+Timestep: 30120 Average Reward: 35.415
+
+########## Evaluation ##########
+Timestep: 30602 Average Reward: 36.414
+
+########## Evaluation ##########
+Timestep: 31056 Average Reward: 35.8805
+
+########## Evaluation ##########
+Timestep: 31519 Average Reward: 36.0125
+
+########## Evaluation ##########
+Timestep: 31990 Average Reward: 35.981
+
+########## Evaluation ##########
+Timestep: 32414 Average Reward: 35.481
+
+########## Evaluation ##########
+Timestep: 32876 Average Reward: 36.38
+
+########## Evaluation ##########
+Timestep: 33335 Average Reward: 36.0035
+
+########## Evaluation ##########
+Timestep: 33804 Average Reward: 36.6775
+
+########## Evaluation ##########
+Timestep: 34325 Average Reward: 35.875
+
+########## Evaluation ##########
+Timestep: 34783 Average Reward: 36.703
+
+########## Evaluation ##########
+Timestep: 35278 Average Reward: 35.1815
+
+########## Evaluation ##########
+Timestep: 35728 Average Reward: 35.902
+
+########## Evaluation ##########
+Timestep: 36226 Average Reward: 35.9915
+
+########## Evaluation ##########
+Timestep: 36666 Average Reward: 37.4135
+
+########## Evaluation ##########
+Timestep: 37123 Average Reward: 34.4535
+
+########## Evaluation ##########
+Timestep: 37613 Average Reward: 36.871
+
+########## Evaluation ##########
+Timestep: 38095 Average Reward: 36.395
+
+########## Evaluation ##########
+Timestep: 38566 Average Reward: 35.563
+
+########## Evaluation ##########
+Timestep: 39043 Average Reward: 36.376
+
+########## Evaluation ##########
+Timestep: 39491 Average Reward: 35.9545
+
+########## Evaluation ##########
+Timestep: 40010 Average Reward: 35.9095
+
+########## Evaluation ##########
+Timestep: 40472 Average Reward: 35.384
+
+########## Evaluation ##########
+Timestep: 40925 Average Reward: 33.8315
+
+########## Evaluation ##########
+Timestep: 41369 Average Reward: 36.285
+
+########## Evaluation ##########
+Timestep: 41832 Average Reward: 35.111
+
+########## Evaluation ##########
+Timestep: 42285 Average Reward: 35.2895
+
+########## Evaluation ##########
+Timestep: 42770 Average Reward: 36.5145
+
+########## Evaluation ##########
+Timestep: 43231 Average Reward: 35.2925
+
+########## Evaluation ##########
+Timestep: 43642 Average Reward: 36.448
+
+########## Evaluation ##########
+Timestep: 44071 Average Reward: 36.546
+
+########## Evaluation ##########
+Timestep: 44573 Average Reward: 36.3355
+
+########## Evaluation ##########
+Timestep: 45051 Average Reward: 35.742
